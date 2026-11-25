@@ -1,0 +1,6 @@
+{
+  "name": "Advana — AI Social Media & Content Creation Agency",
+  "description": "World's first AI-powered agency for non-stop social media growth and high-converting content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
